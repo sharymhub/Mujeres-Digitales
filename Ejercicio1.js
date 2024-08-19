@@ -8,3 +8,8 @@ for (let numero = 1; numero <= 10; numero ++){
     }
 }
 console.log ("Numeros mayores a 5 = " + contarnumeros);
+
+const frutas = {
+    nombre: "manzana",
+    color: "rojo"
+};
