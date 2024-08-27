@@ -1,4 +1,4 @@
-// 1 Variables & condicionales
+// Variables & condicionales
 let Temperatura = 50
 if (Temperatura > 30) {
     console.log("Hace Calor") 
